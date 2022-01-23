@@ -14,9 +14,9 @@ El trabajo consistió en la construcción de una aplicación java web que listar
 - Nombre de la base de datos: agencia_de_turismo
 - Nombre de usuario: turismoUser
 - Contraseña: 1234
-- Para acceder con el script de ejemplo las credenciales serán:
-* Usuario: admin
-* Contraseña: admin
+- Para acceder con el script proporcionado como ejemplo las credenciales serán:
+  - Usuario: admin
+  - Contraseña: admin
 
 ## Construido con 🛠️
 - Java
