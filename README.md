@@ -1,5 +1,7 @@
 # Sistema de Agencia de Turismo
 
+Agregando linea de operacion 2025_001
+
 Tercer y último trabajo práctico realizado para el curso _Desarrollo Web Fullstack con Java_, dictado por PoloTic y Silicon Misiones.
 
 El trabajo consistió en la construcción de una aplicación java web que listara, registrara, modificara y eliminara las diferentes entidades de una agencia de turismo.
